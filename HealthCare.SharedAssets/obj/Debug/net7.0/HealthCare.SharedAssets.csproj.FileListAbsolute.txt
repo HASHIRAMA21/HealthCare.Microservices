@@ -1,0 +1,12 @@
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/bin/Debug/net7.0/HealthCare.SharedAssets.deps.json
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/bin/Debug/net7.0/HealthCare.SharedAssets.dll
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/bin/Debug/net7.0/HealthCare.SharedAssets.pdb
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.csproj.AssemblyReference.cache
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.GeneratedMSBuildEditorConfig.editorconfig
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.AssemblyInfoInputs.cache
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.AssemblyInfo.cs
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.csproj.CoreCompileInputs.cache
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.dll
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/refint/HealthCare.SharedAssets.dll
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/HealthCare.SharedAssets.pdb
+/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/obj/Debug/net7.0/ref/HealthCare.SharedAssets.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZrKA5EHZJ5yVpJyhGLbLHPVhK9RLjs02+0tTHP28/tc=",
+  "Source": "HealthCare.Patients.Api",
+  "BasePath": "_content/HealthCare.Patients.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

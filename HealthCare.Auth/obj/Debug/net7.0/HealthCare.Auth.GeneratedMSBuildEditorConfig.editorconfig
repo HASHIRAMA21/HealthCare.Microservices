@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HealthCare.Auth
+build_property.RootNamespace = HealthCare.Auth
+build_property.ProjectDir = /home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Account/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudC9Mb2dpbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Account/Logout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudC9Mb2dvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Account/Logout/LoggedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudC9Mb2dvdXQvTG9nZ2VkT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/ApiScopes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQXBpU2NvcGVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/ApiScopes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQXBpU2NvcGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/ApiScopes/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQXBpU2NvcGVzL05ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQ2xpZW50cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQ2xpZW50cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/Clients/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQ2xpZW50cy9OZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/IdentityScopes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSWRlbnRpdHlTY29wZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/IdentityScopes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSWRlbnRpdHlTY29wZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/IdentityScopes/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSWRlbnRpdHlTY29wZXMvTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Ciba/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2liYS9BbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Ciba/Consent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2liYS9Db25zZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Ciba/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2liYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Ciba/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2liYS9fU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Consent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29uc2VudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Consent/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29uc2VudC9fU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Device/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV2aWNlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Device/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV2aWNlL1N1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Device/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV2aWNlL19TY29wZUxpc3RJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Diagnostics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGlhZ25vc3RpY3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/ExternalLogin/Callback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXh0ZXJuYWxMb2dpbi9DYWxsYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/ExternalLogin/Challenge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXh0ZXJuYWxMb2dpbi9DaGFsbGVuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Grants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3JhbnRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Home/Error/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS9FcnJvci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Redirect/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVkaXJlY3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/ServerSideSessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VydmVyU2lkZVNlc3Npb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/Shared/_ValidationSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.Auth/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

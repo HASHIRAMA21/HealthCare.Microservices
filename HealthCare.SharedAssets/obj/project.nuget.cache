@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Xay9m7pK3V5tPheZc4a5i7NBRGKQm+I85ZetAvaWVomu1CR0X1bG0awRewTUK6fmuAQfU+fUwDb6c8vbWqHcQ==",
+  "success": true,
+  "projectFilePath": "/home/krohn/RiderProjects/Ch14/HealthCare.Microservices/HealthCare.SharedAssets/HealthCare.SharedAssets.csproj",
+  "expectedPackageFiles": [
+    "/home/krohn/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/krohn/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
